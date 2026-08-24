@@ -13,7 +13,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 # Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
-
+- 
 ## Procedure
 
 ### 1. Launch Cadence Virtuoso Environment:
